@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-
+""" To be continued """
 # send a GET request to the website and get the response
 response = requests.get("https://www.trip.com/hotels/list?city=New+York+City")
 

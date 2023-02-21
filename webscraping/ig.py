@@ -33,8 +33,8 @@ def main():
 
     username.clear()
     password.clear()
-    username.send_keys('car_meow628')
-    password.send_keys('2002423051')
+    username.send_keys('your username')
+    password.send_keys('your password')
     login.click()
 
     # notification

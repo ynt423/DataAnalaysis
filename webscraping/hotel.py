@@ -4,6 +4,11 @@ from selenium.webdriver.common.by import By
 import time
 from pyvirtualdisplay import Display
 
+""" This project can base on user input to scrap to relevant hotel price here """
+""" The coming goal:
+    1.send data into a csv file
+    2.provide cusomized selection for user(find the cheapest/the most polpular hotel in somewhere) """
+
 
 def user_input():
     print("----------------------------------------------")
